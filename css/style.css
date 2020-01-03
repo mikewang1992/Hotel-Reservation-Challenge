@@ -655,7 +655,8 @@ background-image: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.25, #F9F9
     width: 100vw;
     height: 150vh;
     opacity: 0.5;
-    display: none
+    display: none;
+    z-index: 10
 }
 
 .loaderwrapInfo>.lds-spinner {
